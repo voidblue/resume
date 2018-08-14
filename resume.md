@@ -45,7 +45,7 @@
 
 # INTERESTS  
 
-!(https://github.com/voidblue/resume/blob/master/interests.png)
+![](https://github.com/voidblue/resume/blob/master/interests.png)
 
 대학생이 되기 전 시절에 게임에 관심이 많았고 자연스럽게 제작에 관심을 들이게 되었습니다.
 당시에 전략 시물레이션 게임의 맵 에디터를 켜봤으나 하나도 모르겠어서 간단한 맵 정도 만드는 것으로 만족했습니다.
@@ -73,5 +73,5 @@
 
 더 궁금한 점이 있다면 가장 위에 있는 메일로 연락주시면 답변드리겠습니다.
 
-#Education
+# Education
 2013 ~ : 제주대학교 컴퓨터공학전공
